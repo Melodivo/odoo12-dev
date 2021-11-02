@@ -1,3 +1,6 @@
 [submodule "core12"]
 	path = core12
 	url = git@github.com:odoo/odoo.git
+[submodule "custom/l10n-brazil"]
+	path = custom/l10n-brazil
+	url = git@github.com:OCA/l10n-brazil.git
