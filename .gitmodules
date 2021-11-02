@@ -4,3 +4,7 @@
 [submodule "custom/l10n-brazil"]
 	path = custom/l10n-brazil
 	url = git@github.com:OCA/l10n-brazil.git
+[submodule "oca/currency"]
+	path = oca/currency
+	url = git@github.com:OCA/currency.git
+	branch = 12.0
